@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "silex/silex": "~1.2",
+        "silex/silex": "dev-poper",
         "illuminate/database": ">6.0",
         "illuminate/events": ">6.0"
     },
